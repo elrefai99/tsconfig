@@ -1,0 +1,16 @@
+{
+  "name": "@mohamed-elrefai/tsconfigs",
+  "version": "0.0.1",
+  "description": "Strict shared tsconfig",
+  "keywords": [
+    "tsconfig"
+  ],
+  "author": "Mohamed Mostafa <mohamed.mostafa0699@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tsconfig/node16-strictest": "^1.0.4"
+  },
+  "devDependencies": {
+    "@tsconfig/node18": "^1.0.1"
+  }
+}

@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@tsconfig/node16-strictest': ^1.0.4
+
+dependencies:
+  '@tsconfig/node16-strictest': 1.0.4
+
+packages:
+
+  /@tsconfig/node16-strictest/1.0.4:
+    resolution: {integrity: sha512-kp6/DuAoKzHVv5U+p0uOesYbjrEvrYVNdQMl163a+yXXUv9twabvkCGEn3pmVxKXB45JU5MPGolDDWnONZL5ZQ==}
+    dev: false
